@@ -1,8 +1,8 @@
 # Portfolio_Website
 
 
-<h1 align="center">Hi 👋, I'm Ayush Shyam Lingayat</h1>
-<h3 align="center">I Am a Fresher Front End Developer from India</h3>
+<h1 align="center">Hi 👋 I am Ayush Shyam Lingayat</h1>
+<h3 align="center">I Am a Front End Developer from India</h3>
 
 ## Website Preview
 #### Portfolio Page
